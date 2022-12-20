@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Tarefas\bin\Debug\net6.0\Tarefas.exe
+C:\Users\Renan\source\repos\Tarefas\bin\Debug\net6.0\Tarefas.deps.json
+C:\Users\Renan\source\repos\Tarefas\bin\Debug\net6.0\Tarefas.runtimeconfig.json
+C:\Users\Renan\source\repos\Tarefas\bin\Debug\net6.0\Tarefas.dll
+C:\Users\Renan\source\repos\Tarefas\bin\Debug\net6.0\Tarefas.pdb
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.dll
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\refint\Tarefas.dll
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.pdb
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\Tarefas.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Tarefas\obj\Debug\net6.0\ref\Tarefas.dll

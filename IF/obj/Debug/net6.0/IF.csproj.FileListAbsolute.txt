@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\IF\bin\Debug\net6.0\IF.exe
+C:\Users\Renan\source\repos\IF\bin\Debug\net6.0\IF.deps.json
+C:\Users\Renan\source\repos\IF\bin\Debug\net6.0\IF.runtimeconfig.json
+C:\Users\Renan\source\repos\IF\bin\Debug\net6.0\IF.dll
+C:\Users\Renan\source\repos\IF\bin\Debug\net6.0\IF.pdb
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.AssemblyInfo.cs
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.dll
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\refint\IF.dll
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.pdb
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\IF.genruntimeconfig.cache
+C:\Users\Renan\source\repos\IF\obj\Debug\net6.0\ref\IF.dll

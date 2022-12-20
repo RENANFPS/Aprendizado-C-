@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Projetomedia\bin\Debug\net6.0\Projetomedia.exe
+C:\Users\Renan\source\repos\Projetomedia\bin\Debug\net6.0\Projetomedia.deps.json
+C:\Users\Renan\source\repos\Projetomedia\bin\Debug\net6.0\Projetomedia.runtimeconfig.json
+C:\Users\Renan\source\repos\Projetomedia\bin\Debug\net6.0\Projetomedia.dll
+C:\Users\Renan\source\repos\Projetomedia\bin\Debug\net6.0\Projetomedia.pdb
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.dll
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\refint\Projetomedia.dll
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.pdb
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\Projetomedia.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Projetomedia\obj\Debug\net6.0\ref\Projetomedia.dll
